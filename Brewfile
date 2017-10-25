@@ -1,0 +1,8 @@
+tap "caskroom/cask"
+tap "caskroom/versions"
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "rbenv"
+brew "zsh"
+brew "zsh-completions"
+cask "sublime-text"
